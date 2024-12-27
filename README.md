@@ -45,7 +45,7 @@ To run the game locally, make sure you have a browser and follow these steps:
 Clone this repository to your machine:
 bash
 Copy code
-git clone https://github.com/yourusername/TICTACTOE.git
+git clone (https://github.com/The-Animesh-Pathak/TicTacToe.git)
 Open the index.html file in your browser, and enjoy the game!
 👾 Contributing
 We welcome contributions to improve this game! 🎉
